@@ -34,6 +34,17 @@ class Program
             letterGrade = "F";
         }
 
+        if (gradePercentage >= 70)
+        {
+            passFail = "You passed the course!";
+        }
+        else
+        {
+            passFail = "You did not pass the course. Remember to study more.";
+        }
+
         Console.WriteLine($"Your letter grade is {letterGrade}");
+
+
     }
 }
