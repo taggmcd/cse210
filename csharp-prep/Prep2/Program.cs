@@ -44,7 +44,7 @@ class Program
         }
 
         Console.WriteLine($"Your letter grade is {letterGrade}");
-
+        Console.WriteLine(passFail);
 
     }
 }
