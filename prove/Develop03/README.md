@@ -9,7 +9,7 @@ classDiagram
         +Scripture(List reference, text)
         +Scripture(reference, text)
 
-        +hideWords(refence, word)
+        +hideWords(reference, word)
         +getRenderedText(text)
 
     }
