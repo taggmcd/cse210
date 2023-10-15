@@ -6,9 +6,11 @@ classDiagram
     class Scripture{
         -List~Reference~ _reference
 
-        +Scripture(Reference reference, text)
-        +hideWords(, word)
-        +getText(text)
+        +Scripture(List reference, text)
+        +Scripture(reference, text)
+
+        +hideWords(refence, word)
+        +getRenderedText(text)
 
     }
 
