@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Animal example
+title:  Encapsulation Design Activity
 ---
 classDiagram
     class Scripture{
