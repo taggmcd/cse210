@@ -2,9 +2,9 @@ using System.Reflection.Metadata.Ecma335;
 
 class Activity
 {
-    private string _name;
-    private string _description;
-    private int _timeLimit;
+    protected string _name;
+    protected string _description;
+    protected int _timeLimit;
 
     public Activity(string name, string description)
     {
