@@ -1,0 +1,3 @@
+SimpleGoal,Eat Chicken,I want to eat some chicken,100,True
+EternalGoal,Scripture Study,Read the scripters each day.,20,False,1
+ChecklistGoal,Go to the temple,Visit the temple.,50,True,3,3,200
