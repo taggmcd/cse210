@@ -1,5 +1,3 @@
-using System.Reflection.Metadata.Ecma335;
-
 class Activity
 {
     protected string _name;
